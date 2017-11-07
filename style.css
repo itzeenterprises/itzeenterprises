@@ -45,7 +45,6 @@ span {
 
 #agendatitle { 
   display: block;
-  margin-top: 30px;
   font-family: Ar Bonnie, sans-serif; 
   font-size: 40px; 
   color: tomato;
@@ -61,7 +60,6 @@ span {
 
 #eventtitle {
   display: block;
-  margin-top: 30px;
   font-family: Ar Bonnie, sans-serif; 
   font-size: 30px; 
   color: tomato; 
@@ -77,10 +75,9 @@ span {
 
 #infotitle1 {
   display: block;
-  font-family: ar bonnie, sans-serif; 
+  font-family: Century Gothic, sans-serif; 
   font-size: 25px; 
   color: rgb(48, 110, 155);
-  font-weight: bold;
   letter-spacing: 2px;
 }
 
@@ -89,7 +86,7 @@ span {
   font-family: Century Gothic, sans-serif; 
   font-size: 30px; 
   text-transform: uppercase;
-  color: rgb(196, 31, 31);
+  color: tomato;
   letter-spacing: 2px;
 
 }
