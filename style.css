@@ -125,7 +125,9 @@ img {
 hr {
   margin-top: 20px;
   margin-bottom: 20px;
-  border-top: 1px solid rgb(255, 195, 0);
+  border-style: solid;
+  color: rgb(255, 195, 0);
+  border-width: 0.5px;
 }
 
 a:link {
