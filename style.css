@@ -1,0 +1,164 @@
+@import url(http://fonts.googleapis.com/css?family=Merriweather:300,300italic,400,400italic,700,700italic);
+@import url(http://fonts.googleapis.com/css?family=Montserrat);
+
+body { 
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px; 
+  padding-bottom: 10px;
+  min-width: 700px;
+  max-width: 750px;
+  margin: auto
+
+}
+
+header { 
+  font-family: Ar Bonnie, sans-serif; 
+  text-transform: uppercase;
+  font-size: 25px;
+  color: rgb(255, 195, 0);
+  margin-bottom: -18px;
+}
+
+#ietitle {
+  font-family: Century Gothic, sans-serif;
+  font-size: 30px;
+  text-transform: uppercase;
+  color: rgb(126, 124, 117);
+  float: left;
+  letter-spacing: 2px;
+}
+
+footer { 
+  font-family: helvetiva, sans-serif; 
+  font-style: italic;
+  text-transform: lowercase; 
+  letter-spacing: 7px;
+  font-size: 12px;
+  margin-left: 0px;
+  color: rgb(126, 124, 117);
+}
+
+span {
+  color: rgb(22, 136, 22);
+}
+
+#agendatitle { 
+  display: block;
+  margin-top: 30px;
+  font-family: Ar Bonnie, sans-serif; 
+  font-size: 40px; 
+  color: tomato;
+}
+
+#agendalist { 
+  display: block;
+  margin-top: 10px;
+  font-family: Helvetica, sans-serif; 
+  font-size: 20px; 
+  color: black;  
+}
+
+#eventtitle {
+  display: block;
+  margin-top: 30px;
+  font-family: Ar Bonnie, sans-serif; 
+  font-size: 30px; 
+  color: tomato; 
+}
+
+#eventtext { 
+  display: block;
+  margin-top: 10px;
+  font-family: Century Gothic, sans-serif; 
+  font-size: 17px; 
+  color: black;  
+}
+
+#infotitle1 {
+  display: block;
+  font-family: ar bonnie, sans-serif; 
+  font-size: 25px; 
+  color: rgb(48, 110, 155);
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+
+#infotitle2 {
+  display: block; 
+  font-family: Century Gothic, sans-serif; 
+  font-size: 30px; 
+  text-transform: uppercase;
+  color: rgb(196, 31, 31);
+  letter-spacing: 2px;
+
+}
+
+#infotext { 
+  display: block;
+  margin-top: 20px;
+  font-family: Century Gothic, sans-serif; 
+  font-size: 17px; 
+  color: rgb(22, 136, 22);  
+}
+
+#wrapper {
+  overflow: hidden;
+}
+
+#content {
+  float: right;
+  width: 400px;
+}
+
+#sidebar {
+  float: left;
+  width: 250px;
+}
+
+img {
+  display: block;
+  width: 150px;
+  margin: auto;
+  
+}
+
+hr {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-top: 1px solid rgb(255, 195, 0);
+}
+
+a:link {
+  text-decoration: inherit;
+  color: inherit;
+}
+
+a:visited {
+  text-decoration: inherit;
+  color: inherit;
+}
+
+a:hover {
+  text-decoration: none;
+  color: rgb(48, 110, 155);  
+}
+
+a:active {
+  text-decoration: inherit;
+  color: inherit;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  text-align: right;
+  line-height: %;
+}
+
+li {
+  display: inline;
+  margin: 10px;
+}
+
+
