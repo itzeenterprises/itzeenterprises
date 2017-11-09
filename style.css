@@ -118,8 +118,15 @@ span {
 img {
   display: block;
   width: 150px;
-  margin: auto;
-  
+  margin: auto;  
+}
+
+.board {
+  width: 150px;
+  margin-top: 25px;
+  margin-bottom: 5px;
+  margin-right: 250px;
+  border-radius:25px;
 }
 
 hr {
